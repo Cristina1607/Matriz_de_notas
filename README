@@ -1,0 +1,33 @@
+# Leitura e Exibição de uma Matriz 2x3
+
+Este projeto em Python permite ao usuário inserir valores para preencher uma matriz 2x3 e, em seguida, exibe a matriz na tela. É um exemplo básico de manipulação de listas aninhadas (ou matrizes) em Python, útil para iniciantes que desejam aprender sobre estruturas de dados e loops aninhados.
+
+## Descrição
+
+O script solicita ao usuário que insira valores para preencher uma matriz de 2 linhas por 3 colunas. Após a leitura dos valores, a matriz é exibida no formato de uma lista de listas.
+
+### Como funciona:
+
+1. O script inicializa uma lista vazia chamada `matriz`.
+2. Utiliza-se um loop `for` para iterar por 2 linhas.
+3. Para cada linha, outro loop `for` percorre 3 colunas, solicitando ao usuário que insira um valor para a posição específica.
+4. Os valores inseridos são armazenados na matriz.
+5. Após a inserção de todos os valores, a matriz é exibida na tela.
+
+## Requisitos
+
+- Python 3.x deve estar instalado.
+
+## Como executar
+
+1. Clone este repositório:
+
+   ```bater
+   git clone https://github.com/Cristina1607/Contador_de_Numeros.git
+2. Navegue até o diretório do projeto:
+cd adivinhe-o-numero
+3. Execute o script Python:
+python Contador_de_Numeros.py
+
+Licença
+Este projeto está licenciado sob a MIT License.
