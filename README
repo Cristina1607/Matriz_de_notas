@@ -23,11 +23,11 @@ O script solicita ao usuário que insira valores para preencher uma matriz de 2 
 1. Clone este repositório:
 
    ```bater
-   git clone https://github.com/Cristina1607/Contador_de_Numeros.git
+   git clone https://github.com/Cristina1607/Matriz_de_notas.git
 2. Navegue até o diretório do projeto:
 cd adivinhe-o-numero
 3. Execute o script Python:
-python Contador_de_Numeros.py
+python Matriz_de_notas.py
 
 Licença
 Este projeto está licenciado sob a MIT License.
