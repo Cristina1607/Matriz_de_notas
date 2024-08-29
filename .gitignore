@@ -1,0 +1,24 @@
+```plaintext
+# Ignorar arquivos compilados em Python
+__pycache__/
+
+# Ignorar ambientes virtuais
+env/
+.venv/
+
+# Ignorar arquivos de configuração de editores
+.vscode/
+.idea/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+Enunciado
+Desenvolva um script em Python que permita ao usuário preencher e exibir uma matriz 2x3. O script deve seguir as etapas abaixo:
+
+1. Inicializar uma lista vazia chamada matriz.
+2. Utilizar um loop for para percorrer 2 linhas.
+3. Em cada linha, utilizar outro loop for para percorrer 3 colunas, solicitando ao usuário que insira um valor para cada posição.
+4. Armazenar os valores inseridos na matriz.
+5. Após preencher a matriz, exibi-la na tela no formato de uma lista de listas.
